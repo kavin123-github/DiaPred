@@ -10,7 +10,7 @@ st.set_page_config(page_title="Diabetes Predictor", page_icon="🩺", layout="ce
 st.markdown(
     """
     <div style='text-align: center; padding: 20px; border-radius: 15px; border: 4px solid gold; background: linear-gradient(to right, #fffde7, #e8f5e9);'>
-        <h1 style='color: darkgreen;'>🩺 Luxury Diabetes Predictor</h1>
+        <h1 style='color: darkgreen;'>🩺 Diabetes Predictor </h1>
         <p style='font-size:18px;'>Enter your details below to predict your diabetes status.</p>
     </div>
     """,
